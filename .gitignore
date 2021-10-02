@@ -2,9 +2,9 @@ node_modules
 
 db/**/*
 !db/.gitkeep
-!db/svg
 
-db/svg/*
-!db/svg/.gitkeep
+!db/image
+db/image/*
+!db/image/.gitkeep
 
 .DS_Store
